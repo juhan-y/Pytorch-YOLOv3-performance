@@ -1,6 +1,6 @@
 # Pytorch-YOLOv3-performance
 
-##performance explanation of code in korean
+## performance explanation of code in korean
 
 2번에서의 YOLOv3-darknet으로 roboflow에서 가져온 dataset으로 학습시켜서 model을 만들어보았다. 작업은 colaboratory에서 진행했고 리눅스명령어를 사용해서 학습을 진행했다.
 roboflow에서 가져온 dataset은 image가 총 627장이다.
